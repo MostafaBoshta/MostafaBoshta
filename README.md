@@ -1,7 +1,7 @@
 ### Hi All 👋
 #### - 🔭 I’m Fresh-Graduate.
-#### - 😄 Bachelors Degree in Computer Engineering.
-#### - 🌱 I’m currently learning DataScience.
+#### - 😄 Bachelor's Degree in Computer Engineering.
+#### - 🌱 I’m currently learning Data Engineering.
 #### - 📫 How to reach me on Mail: mostafaboshta9@gmail.com
 #### - 📫 How to reach me on What's app: +201100787960
 #### - 🚀 HackerRank Account: https://www.hackerrank.com/mostafa_boshta
