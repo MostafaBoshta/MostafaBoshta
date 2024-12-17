@@ -1,10 +1,14 @@
-### Hi there! 👋
+## 👋 Hi, I'm Mostafa Hamdy!  
+- 🎓 Junior Data Engineer, ITI Graduate  
+- 🔧 Skilled in Python, Spark, Airflow, Kafka, and SQL  
+- 🌟 Passionate about building end-to-end data pipelines  
 
-- 🎓 **Recent Graduate** with a Bachelor's Degree in Computer Engineering.
-- 🚀 **Aspiring Data Engineer**, currently enhancing my skills in building data pipelines, big data technologies, and cloud platforms.
-- 🌱 Continuously learning and growing in the world of **Data Engineering**.
-- 💡 Passionate about transforming data into actionable insights.
-- 📫 Reach me via email: [mostafaboshta9@gmail.com](mailto:mostafaboshta9@gmail.com)
-- 📱 Available on WhatsApp: [+201100787960](https://wa.me/+201100787960)
+### 🚀 Projects:
+1. [Movie Platforms Pipeline](https://github.com/MostafaBoshta/Movie-Platfroms) - ETL pipeline processing streaming data.  
+2. [Gravity Books](https://github.com/MostafaBoshta/ETL-Gravity-Books-) - ETL pipeline of Gravity Books.
+3. [Banking System](https://github.com/MostafaBoshta/ETL-BankSystem) - ETL pipeline of banking system. 
 
+### 📫 How to reach me:  
+- [LinkedIn](https://linkedin.com/in/YourUsername)
+- [Email](mostafaboshta9@gmail.com)
 
